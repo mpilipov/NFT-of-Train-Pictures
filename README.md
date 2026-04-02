@@ -23,14 +23,30 @@ network.
 To store the pictures and metadata I used IPFS storage Filebase, in the created bucket
 trains-nft:
 
+<img width="978" height="277" alt="image" src="https://github.com/user-attachments/assets/ed1ea6bd-6042-44a3-be82-5e1775486df3" />
+
+
 
 On this bucket I uploaded a folder with all the pictures I use to mint NFTs:
+
+<img width="729" height="376" alt="image" src="https://github.com/user-attachments/assets/b3ff3865-2cc2-4eeb-91a8-3834ffcabcd5" />
+
 
 
 At the same bucket I uploaded a folder which contains all metadata files for my NFTs:
 
+<img width="791" height="397" alt="image" src="https://github.com/user-attachments/assets/47b3d69c-d6b2-4d84-91d0-3150d0ace9d1" />
+
+
 
 Here you can see an example of metadata file of one of my NFTs:
+
+<img width="978" height="406" alt="image" src="https://github.com/user-attachments/assets/062555f9-f50f-4b99-b62e-918d5edbb1e1" />
+
+The example of photo which was used as a base for NFT token:
+
+![15](https://github.com/user-attachments/assets/c546d682-ba36-412c-8b02-ebee56130e6d)
+
 
 
 Every metadata file contains the following fields:
@@ -71,6 +87,9 @@ contract
 
 The deployed contract on Etherscan:
 
+<img width="943" height="550" alt="image" src="https://github.com/user-attachments/assets/18ecccc8-a976-4d51-8f41-d4951a5c4808" />
+
+
 
 **II.** **Frontend of the dApp**
 
@@ -91,17 +110,25 @@ connection between frontend and the blockchain
 
 table format:
 
+<img width="981" height="276" alt="image" src="https://github.com/user-attachments/assets/881ac38f-5174-41b8-b2fd-6e9ab9b96e34" />
+
 
 3) MintNFT.js is responsible to allow users to mint new NFTs on the smart contract. It
 
 provides a form where users can specify a price for minting an NFT and then users
 can send a transaction to the blockchain in order to mint an NFT.
 
+<img width="432" height="132" alt="image" src="https://github.com/user-attachments/assets/6a4e7387-72c5-4af6-9f27-3962f110f542" />
+
+
 
 4) SellNFT.js allows users to list their NFTs for sale on the smart contract. It allows
 
 users to set the price for the NFT they want to sell and a tokenID of the NFT they
-want to sell
+want to sell.
+
+<img width="539" height="162" alt="image" src="https://github.com/user-attachments/assets/da4209e2-9403-4aea-a74b-15a815ad42b9" />
+
 
 
 5) BuyNFT.js allows to purchase NFTs which are listing for sale on the smart contract.
@@ -109,11 +136,16 @@ want to sell
 It interacts with the blockchain to handle the transaction and to transfer ownership
 of the chosen NFT
 
+<img width="750" height="192" alt="image" src="https://github.com/user-attachments/assets/4369e71e-a49b-46cf-8f2e-b511461c2abe" />
+
 
 6) All these modules are being called in the App.js file:
+
+   <img width="433" height="378" alt="image" src="https://github.com/user-attachments/assets/8e8c7e7c-b4be-4787-8b06-11d2493504e5" />
+
 
 
 7) Here you can see the basic structure of the project:
 
-
+<img width="429" height="565" alt="image" src="https://github.com/user-attachments/assets/061abd6c-70d4-4755-bc43-e837a7708152" />
 
