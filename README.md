@@ -2,7 +2,6 @@
 **Decentralized application (dApp) for creating and promoting NFTs,** made by 
 Mikhail Pilipov
 
-This project with smart contract allows to mint, promote and sell NFTs which are pictures of different trains.
 
 
 
