@@ -23,29 +23,31 @@ network.
 To store the pictures and metadata I used IPFS storage Filebase, in the created bucket
 trains-nft:
 
-<img width="978" height="277" alt="image" src="https://github.com/user-attachments/assets/ed1ea6bd-6042-44a3-be82-5e1775486df3" />
+<img width="778" height="220" alt="image" src="https://github.com/user-attachments/assets/ed1ea6bd-6042-44a3-be82-5e1775486df3" />
 
 
 
 On this bucket I uploaded a folder with all the pictures I use to mint NFTs:
 
-<img width="729" height="376" alt="image" src="https://github.com/user-attachments/assets/b3ff3865-2cc2-4eeb-91a8-3834ffcabcd5" />
+<img width="600" height="310" alt="image" src="https://github.com/user-attachments/assets/b3ff3865-2cc2-4eeb-91a8-3834ffcabcd5" />
 
 
 
 At the same bucket I uploaded a folder which contains all metadata files for my NFTs:
 
-<img width="791" height="397" alt="image" src="https://github.com/user-attachments/assets/47b3d69c-d6b2-4d84-91d0-3150d0ace9d1" />
+<img width="620" height="311" alt="image" src="https://github.com/user-attachments/assets/47b3d69c-d6b2-4d84-91d0-3150d0ace9d1" />
 
 
 
 Here you can see an example of metadata file of one of my NFTs:
 
-<img width="978" height="406" alt="image" src="https://github.com/user-attachments/assets/062555f9-f50f-4b99-b62e-918d5edbb1e1" />
+<img width="810" height="336" alt="image" src="https://github.com/user-attachments/assets/062555f9-f50f-4b99-b62e-918d5edbb1e1" />
 
 The example of photo which was used as a base for NFT token:
 
-![15](https://github.com/user-attachments/assets/c546d682-ba36-412c-8b02-ebee56130e6d)
+<img width="900" height="676" alt="image" src="https://github.com/user-attachments/assets/a52b8ef8-31e7-4161-b8fd-942915d29cc3" />
+
+
 
 
 
