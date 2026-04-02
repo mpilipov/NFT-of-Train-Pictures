@@ -1,0 +1,18 @@
+{
+  "name": "OBB 86-33",
+  "description": "OBB 86-33 113 Cityshuttle on Wien Wbf station",
+  "image": "https://ipfs.filebase.io/ipfs/QmS5guWudbP4QP55B5MsfpkhHFqYxqjho6hJcoaCeqgGjV/9.jpg",
+  "attributes": [
+    { "trait_type": "Train Type", "value": "Regional Train" },
+    { "trait_type": "Model", "value": "OBB 86-33" },
+    { "trait_type": "Year", "value": 2025 },
+    { "trait_type": "Rail company", "value": "OBB" },
+    { "trait_type": "Country", "value": "Austria" },
+    { "trait_type": "Location", "value": "Wien Wbf" },
+    { "trait_type": "Photo Resolution", "value": "4032x3024" },
+    { "trait_type": "Rarity", "value": "Not Rare"},
+    { "trait_type": "Initial Price", "value": "17" },
+    { "trait_type": "Currency", "value": "USD" },
+    { "trait_type": "Creator", "value": "MichaelPilipov" }
+  ]
+}

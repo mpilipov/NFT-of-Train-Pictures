@@ -1,0 +1,18 @@
+{
+  "name": "E464",
+  "description": "E464-141 on Genova Brignole station",
+  "image": "https://ipfs.filebase.io/ipfs/QmS5guWudbP4QP55B5MsfpkhHFqYxqjho6hJcoaCeqgGjV/6.jpg",
+  "attributes": [
+    { "trait_type": "Train Type", "value": "Locomotive of Regional Train" },
+    { "trait_type": "Model", "value": "E464" },
+    { "trait_type": "Year", "value": 2025 },
+    { "trait_type": "Rail company", "value": "Trenitalia" },
+    { "trait_type": "Country", "value": "Italy" },
+    { "trait_type": "Location", "value": "Genova Brignole" },
+    { "trait_type": "Photo Resolution", "value": "4032x3024" },
+    { "trait_type": "Rarity", "value": "Medium Rare"},
+    { "trait_type": "Initial Price", "value": "22" },
+    { "trait_type": "Currency", "value": "USD" },
+    { "trait_type": "Creator", "value": "MichaelPilipov" }
+  ]
+}

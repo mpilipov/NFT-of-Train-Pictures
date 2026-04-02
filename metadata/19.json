@@ -1,0 +1,18 @@
+{
+  "name": "ETR485",
+  "description": "ETR485-43 on Firenze Campo Di Marte station",
+  "image": "https://ipfs.filebase.io/ipfs/QmS5guWudbP4QP55B5MsfpkhHFqYxqjho6hJcoaCeqgGjV/19.jpg",
+  "attributes": [
+    { "trait_type": "Train Type", "value": "High-speed Train" },
+    { "trait_type": "Model", "value": "ETR485" },
+    { "trait_type": "Year", "value": 2025 },
+    { "trait_type": "Rail company", "value": "Trenitalia" },
+    { "trait_type": "Country", "value": "Italy" },
+    { "trait_type": "Location", "value": "Firenze Campo Di Marte" },
+    { "trait_type": "Photo Resolution", "value": "4032x3024" },
+    { "trait_type": "Rarity", "value": "Not rare"},
+    { "trait_type": "Initial Price", "value": "19" },
+    { "trait_type": "Currency", "value": "USD" },
+    { "trait_type": "Creator", "value": "MichaelPilipov" }
+  ]
+}

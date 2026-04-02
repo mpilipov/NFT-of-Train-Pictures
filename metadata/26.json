@@ -1,0 +1,18 @@
+{
+  "name": "ETR460",
+  "description": "ETR460-22 on Roma Termini station",
+  "image": "https://ipfs.filebase.io/ipfs/QmS5guWudbP4QP55B5MsfpkhHFqYxqjho6hJcoaCeqgGjV/26.jpg",
+  "attributes": [
+    { "trait_type": "Train Type", "value": "High-speed Train" },
+    { "trait_type": "Model", "value": "ETR460" },
+    { "trait_type": "Year", "value": 2025 },
+    { "trait_type": "Rail company", "value": "Trenitalia" },
+    { "trait_type": "Country", "value": "Italy" },
+    { "trait_type": "Location", "value": "Roma Termini" },
+    { "trait_type": "Photo Resolution", "value": "4032x3024" },
+    { "trait_type": "Rarity", "value": "Not rare"},
+    { "trait_type": "Initial Price", "value": "16" },
+    { "trait_type": "Currency", "value": "USD" },
+    { "trait_type": "Creator", "value": "MichaelPilipov" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ETR 521",
+  "description": "ETR 521 on Genova Piazza Principe station",
+  "image": "https://ipfs.filebase.io/ipfs/QmS5guWudbP4QP55B5MsfpkhHFqYxqjho6hJcoaCeqgGjV/1.jpg",
+  "attributes": [
+    { "trait_type": "Train Type", "value": "Regional Train" },
+    { "trait_type": "Model", "value": "ETR 521" },
+    { "trait_type": "Year", "value": 2022 },
+    { "trait_type": "Rail company", "value": "Trenitalia" },
+    { "trait_type": "Country", "value": "Italy" },
+    { "trait_type": "Location", "value": "Genova Piazza Principe" },
+    { "trait_type": "Photo Resolution", "value": "4032x3024" },
+    { "trait_type": "Rarity", "value": "Not rare"},
+    { "trait_type": "Initial Price", "value": "10" },
+    { "trait_type": "Currency", "value": "USD" },
+    { "trait_type": "Creator", "value": "MichaelPilipov" }
+  ]
+}
