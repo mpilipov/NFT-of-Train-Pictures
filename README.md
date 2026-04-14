@@ -8,7 +8,7 @@ Mikhail Pilipov
 **I.** **Smart Contract**
 
 
-My smart contract allows to mint, promote and sell NFTs. It was written on Solidity.
+My smart contract allows to mint, promote and sell NFTs. It is written on Solidity.
 
 
 My NFTs are pictures of different trains, the pictures themselves are saved at IPFS storage
